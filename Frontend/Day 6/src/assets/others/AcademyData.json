@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "title": "Chess Academy",
+    "des": "Location: Bangalore",
+    "img": "../../src/assets/images/academy1.jpg",
+    "rate": 3,
+    "courses": [
+      {
+        "course_id": 101,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Beginner Chess",
+        "duration": "3 months",
+        "number_of_students": "122",
+        "course_description": "It's a beginner level class for chess Academy.",
+        "rate": 3
+      },
+      {
+        "course_id": 102,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Intermediate Chess",
+        "duration": "6 months",
+        "number_of_students": "122",
+        "course_description": "It's an intermediate level class for chess Academy",
+        "rate": 4
+      },
+      {
+        "course_id": 103,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Advanced Chess Strategies",
+        "duration": "1 year",
+        "number_of_students": "122",
+        "course_description": "It's an advanced level class for chess Academy",
+        "rate": 5
+      }
+    ]
+  },
+ 
+  {
+    "id": 2,
+    "title": "Shogi's Academy",
+    "des": "Location: Coimbatore",
+    "img": "../../src/assets/images/academy2.jpg",
+    "rate": 4,
+    "courses": [
+      {
+        "course_id": 301,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Introduction to Shogi",
+        "duration": "3 months",
+        "number_of_students": "122",
+        "course_description": "Basic introduction to the game of Shogi",
+        "rate": 3
+      },
+      {
+        "course_id": 302,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Shogi Tactics and Strategy",
+        "duration": "6 months",
+        "number_of_students": "122",
+        "course_description": "Advanced tactics and strategies in Shogi",
+        "rate": 3
+      }
+    ]
+  },
+ 
+  {
+    "id": 3,
+    "title": "Shikamaru Academy",
+    "des": "Location: Tokyo",
+    "img": "../../src/assets/images/academy3.jpg",
+    "rate": 5,
+    "courses": [
+      {
+        "course_id": 501,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Strategic Thinking",
+        "duration": "3 months",
+        "number_of_students": "122",
+        "course_description": "Develop strategic thinking skills",
+        "rate": 3
+      },
+      {
+        "course_id": 502,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Role of king Training",
+        "duration": "6 months",
+        "number_of_students": "122",
+        "course_description": "Training to become a leader",
+        "certification": "Available"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Asuma's Senseicademy",
+    "des": "Location: Hidden Leaf Village",
+    "img": "../../src/assets/images/LoginPic.jpg",
+    "rate": 5,
+    "courses": [
+      {
+        "course_id": 601,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Guess the King",
+        "duration": "3 months",
+        "number_of_students": "122",
+        "course_description": "Master the art of Shogi's and find the true King!!!!",
+        "rate": 3
+      },
+      {
+        "course_id": 602,
+        "course_img": "../../src/assets/images/course1.jpg",
+        "course_name": "Protect the King",
+        "duration": "6 months",
+        "number_of_students": "122",
+        "course_description": "Learn more strategic skills and surpass the hokage!!",
+        "rate": 3
+      }
+    ]
+  }
+]
